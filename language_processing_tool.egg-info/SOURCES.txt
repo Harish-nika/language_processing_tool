@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+language_processing_tool/__init__.py
+language_processing_tool/process_pdfs.py
+language_processing_tool.egg-info/PKG-INFO
+language_processing_tool.egg-info/SOURCES.txt
+language_processing_tool.egg-info/dependency_links.txt
+language_processing_tool.egg-info/entry_points.txt
+language_processing_tool.egg-info/requires.txt
+language_processing_tool.egg-info/top_level.txt
+tests/test.py

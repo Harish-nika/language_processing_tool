@@ -1,0 +1,3 @@
+[console_scripts]
+process-pdfs = language_processing_tool.process_pdfs:main
+

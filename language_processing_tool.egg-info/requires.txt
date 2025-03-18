@@ -1,0 +1,7 @@
+Pillow
+PyMuPDF
+argparse
+icecream
+langdetect
+pandas
+pytesseract
