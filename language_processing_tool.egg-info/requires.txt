@@ -1,7 +1,6 @@
-Pillow
-PyMuPDF
-argparse
-icecream
+pytesseract
 langdetect
 pandas
-pytesseract
+PyMuPDF
+icecream
+Pillow
